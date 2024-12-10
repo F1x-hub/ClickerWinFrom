@@ -1,0 +1,16 @@
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\obj\Debug\net9.0-windows\WinFormsApp25.Form1.resources
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\obj\Debug\net9.0-windows\WinFormsApp25.csproj.GenerateResource.cache
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\obj\Debug\net9.0-windows\WinFormsApp25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\obj\Debug\net9.0-windows\WinFormsApp25.AssemblyInfoInputs.cache
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\obj\Debug\net9.0-windows\WinFormsApp25.AssemblyInfo.cs
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\obj\Debug\net9.0-windows\WinFormsApp25.csproj.CoreCompileInputs.cache
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\bin\Debug\net9.0-windows\WinFormsApp25.exe
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\bin\Debug\net9.0-windows\WinFormsApp25.deps.json
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\bin\Debug\net9.0-windows\WinFormsApp25.runtimeconfig.json
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\bin\Debug\net9.0-windows\WinFormsApp25.dll
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\bin\Debug\net9.0-windows\WinFormsApp25.pdb
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\obj\Debug\net9.0-windows\WinFormsApp25.dll
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\obj\Debug\net9.0-windows\refint\WinFormsApp25.dll
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\obj\Debug\net9.0-windows\WinFormsApp25.pdb
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\obj\Debug\net9.0-windows\WinFormsApp25.genruntimeconfig.cache
+D:\Programing\324\C#\WinFormsApp25\WinFormsApp25\obj\Debug\net9.0-windows\ref\WinFormsApp25.dll
